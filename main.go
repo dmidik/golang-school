@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import arrayMethods "github.com/dmidik/golang-school/task_1"
 
 func main() {
-	fmt.Println("Hello World")
+	arrayMethods.Run()
 }
